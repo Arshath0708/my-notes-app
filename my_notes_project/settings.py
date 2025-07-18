@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-*-aa!6at1d%ve6lcl409v6c#1da(=^bb#t^8=hq+gzpg#9as0g
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['my-notes-app-1-uQq0.onrender.com']
 
 
 # Application definition
